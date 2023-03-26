@@ -1,0 +1,2 @@
+Mar 26, 2023 3:22:25 PM Paycheck.Main main
+WARNING: Greška: Satnica i/ili radni sati moraju biti veći od 0 kod obračuna plaće za Marko Maric
